@@ -1,24 +1,28 @@
-### This is Dip - or [dipcb05][website]
+### Hi there, I'm Amit - aka [amitbd1508][website] 👋
 
-[![Website](https://img.shields.io/website?label=dipchakraborty&style=for-the-badge&url=https%3A%2F%2Fwww.dipchakraborty.com)](https://www.dipchakraborty.com)
-[![Tw Follow](https://img.shields.io/twitter/follow/dipcb05?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fdipcb05&screen_name=dipcb05)
+[![Website](https://img.shields.io/website?label=amitghosh.me&style=for-the-badge&url=https%3A%2F%2Fwww.amitghosh.me)](https://www.amitghosh.me)
+[![Twitter Follow](https://img.shields.io/twitter/follow/amitbd1508?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Famitbd1508&screen_name=amitbd1508)
 
 ## I'm a Developer, Student and Researcher!
 
-- 🌱 I love to learning everything
-- 👯 I love to learn and work with my mated
-- 🥅 Trying to contribute more to Open Source projects
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with other engineers
+- 🥅 2020 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to draw and play guitar / drums
 
+### Spotify Playing 🎧
+
+[<img src="https://amitbd1508.vercel.app/api/spotify-playing" alt="amitbd1508 Spotify Playing" width="350" />](https://open.spotify.com/user/acdq4zdmwmawj35nenu4hikzu)
 
 ### Connect with me:
 
-[<img align="left" alt="dipchakraborty.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="dipcb05 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="dipcb05 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="dipcb05 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="amitghosh.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="amitbd1508 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="amitbd1508 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="amitbd1508 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="amitbd1508 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
-
 
 ### Languages and Tools:
 
@@ -42,16 +46,56 @@
 <br />
 <br />
 
+---
 
+### 📺 Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+- [sandakphu](https://www.youtube.com/watch?v=gebKlgwp0J0)
+- [Test flight in IIT KANPUR hall](https://www.youtube.com/watch?v=NnsOO5M8QGE)
+- [Parking detection using Arduino](https://www.youtube.com/watch?v=CpnaCffkn1U)
+- [India Bangladesh border](https://www.youtube.com/watch?v=yCaaT4HDHmE)
+- [Mars rover driving test](https://www.youtube.com/watch?v=j7mH6Xr3Vm4)
+<!-- YOUTUBE:END -->
+
+➡️ [more videos...](https://youtube.com/amitbd1508)
+
+---
+
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Tic Tac Toe](https://dev.to/amitbd1508/tic-tac-toe-4b6l)
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [more blog posts...](https://amitbd1508.com)
 
 ---
 
 <h5>Github Stats</h5>
-<img align="left" alt="dipcb05's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dipcb05&show_icons=true&hide_border=true" />
+<img align="left" alt="amitbd1508's Github Stats" src="https://github-readme-stats.vercel.app/api?username=amitbd1508&show_icons=true&hide_border=true" />
 
+---
 
-[website]: https://dipchakraborty.com
-[twitter]: https://twitter.com/dipcb05
-[youtube]: https://youtube.com/dipcb05
-[instagram]: https://instagram.com/dipcb05
+<details>
+  <summary>:zap: Recent Github Activity</summary>
+  
+<!--START_SECTION:activity-->
+1. ❗️ Opened issue [#62](https://github.com/coryrylan/ngx-lite/issues/62) in [coryrylan/ngx-lite](https://github.com/coryrylan/ngx-lite)
+2. ❌ Closed PR [#24](https://github.com/nuhil/bangladesh-geocode/pull/24) in [nuhil/bangladesh-geocode](https://github.com/nuhil/bangladesh-geocode)
+3. 💪 Opened PR [#24](https://github.com/nuhil/bangladesh-geocode/pull/24) in [nuhil/bangladesh-geocode](https://github.com/nuhil/bangladesh-geocode)
+4. 🎉 Merged PR [#1](https://github.com/amitbd1508/bangladesh-geocode/pull/1) in [amitbd1508/bangladesh-geocode](https://github.com/amitbd1508/bangladesh-geocode)
+5. 💪 Opened PR [#1](https://github.com/amitbd1508/bangladesh-geocode/pull/1) in [amitbd1508/bangladesh-geocode](https://github.com/amitbd1508/bangladesh-geocode)
+<!--END_SECTION:activity-->
+
+</details>
+
+[website]: https://amitghosh.me
+[twitter]: https://twitter.com/amitbd1508
+[youtube]: https://youtube.com/amitbd1508
+[instagram]: https://instagram.com/amitbd1508
 [linkedin]: https://linkedin.com/in/amitbd1508
+[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
+[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
+[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
+[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
