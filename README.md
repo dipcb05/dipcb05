@@ -47,19 +47,6 @@
 
 ---
 
-<details>
-  <summary>:zap: Recent Github Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. ❗️ Opened issue [#62](https://github.com/coryrylan/ngx-lite/issues/62) in [coryrylan/ngx-lite](https://github.com/coryrylan/ngx-lite)
-2. ❌ Closed PR [#24](https://github.com/nuhil/bangladesh-geocode/pull/24) in [nuhil/bangladesh-geocode](https://github.com/nuhil/bangladesh-geocode)
-3. 💪 Opened PR [#24](https://github.com/nuhil/bangladesh-geocode/pull/24) in [nuhil/bangladesh-geocode](https://github.com/nuhil/bangladesh-geocode)
-4. 🎉 Merged PR [#1](https://github.com/amitbd1508/bangladesh-geocode/pull/1) in [amitbd1508/bangladesh-geocode](https://github.com/amitbd1508/bangladesh-geocode)
-5. 💪 Opened PR [#1](https://github.com/amitbd1508/bangladesh-geocode/pull/1) in [amitbd1508/bangladesh-geocode](https://github.com/amitbd1508/bangladesh-geocode)
-<!--END_SECTION:activity-->
-
-</details>
-
 [website]: https://dipchakraborty.com
 [twitter]: https://twitter.com/dipcb05
 [instagram]: https://instagram.com/amitbd1508
