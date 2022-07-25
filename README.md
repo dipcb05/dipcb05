@@ -1,13 +1,20 @@
-### Hi there, This is Dip - [dipcb05][website] 👋
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=vKQi3bBA1y8) 
+
+<p align="center">
+<img align="center" alt="visitors" src="https://profile-counter.glitch.me/nihadenes/count.svg" />
+</p>
+
+### Hi there, This is Dip Chakraborty - [dipcb05][website] 👋 Welcome to the world of Matrix! 
 
 [![Website](https://img.shields.io/website?label=dipchakraborty.com&style=for-the-badge&url=https%3A%2F%2Fdipchakraborty.com)](https://dipchakraborty.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/dipcb05?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fdipcb05&screen_name=dipcb05)
 
-## I'm a Developer, Student and Researcher!
+## Developer, Student and Researcher!
 
 - 🌱 I love to learn learning which is impactful
 - 👯 I love to collaborate & teamwork
 - 🥅 Goals: Contribute more to Open Source projects
+
 
 ### Connect with me:
 
