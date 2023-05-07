@@ -2,7 +2,7 @@
 
 <p align="center">
   <i>total profile visit count</i><br>
-<img align="center" alt="visitors" src="https://profile-counter.glitch.me/nihadenes/count.svg" />
+<img align="center" alt="visitors" src="https://profile-counter.glitch.me/dipcb05/count.svg" />
 </p>
 
 ### Hi there, This is Dip Chakraborty - [dipcb05][website] 👋 Welcome to the world of Matrix! 
