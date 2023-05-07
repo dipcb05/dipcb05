@@ -1,6 +1,7 @@
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=vKQi3bBA1y8) 
 
 <p align="center">
+  <i>total profile visit count</i><br>
 <img align="center" alt="visitors" src="https://profile-counter.glitch.me/nihadenes/count.svg" />
 </p>
 
