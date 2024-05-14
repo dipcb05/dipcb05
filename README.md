@@ -5,11 +5,12 @@
 <img align="center" alt="visitors" src="https://profile-counter.glitch.me/dipcb05/count.svg" />
 </p>
 
-### Hi there, This is Dip Chakraborty - [dipcb05][website] 👋 Welcome to the world of Matrix! 
+<a href="https://app.daily.dev/dipcb05"><img src="./devcard.png" width="356" alt="Dip's Dev Card"/></a>
+### This is Dip Chakraborty - [dipcb05][website] 👋 
 
-## Developer, Student and Researcher!
+## Developer, Blogger, Researcher
 
-- 🌱 Learn anything which is impactful and trying to find the art
+- 🌱 Learn anything impactful and try to find the art
 - 👯 Always prefer collaborative contribution & teamwork
 - 🥅 Goals: Contribute more to Open Source projects
 
@@ -43,8 +44,7 @@
 
 <h5>Github Stats</h5>
 <img align="left" alt="amitbd1508's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dipcb05&show_icons=true&hide_border=true" /><br />
-<br />
-<a href="https://app.daily.dev/dipcb05"><img src="./devcard.png" width="356" alt="Dip's Dev Card"/></a>
+
 
 ---
 
