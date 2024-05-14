@@ -42,7 +42,7 @@
 ---
 
 <h5>Github Stats</h5>
-<img align="left" alt="amitbd1508's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dipcb05&show_icons=true&hide_border=true" />
+<img align="left" alt="amitbd1508's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dipcb05&show_icons=true&hide_border=true" /><br />
 <a href="https://app.daily.dev/dipcb05"><img src="./devcard.png" width="356" alt="Dip's Dev Card"/></a>
 
 ---
