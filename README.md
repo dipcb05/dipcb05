@@ -5,6 +5,8 @@
 <img align="center" alt="visitors" src="https://profile-counter.glitch.me/dipcb05/count.svg" />
 </p>
 
+<a href="https://app.daily.dev/dipcb05"><img src="./devcard.png" width="356" alt="Dip's Dev Card"/></a>
+
 ### Hi there, This is Dip Chakraborty - [dipcb05][website] 👋 Welcome to the world of Matrix! 
 
 ## Developer, Student and Researcher!
