@@ -1,12 +1,11 @@
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=vKQi3bBA1y8) 
-
-<h1 align="center">Hey, I'm Dip</h1>
-
-<h3 align="center">Software Engineer building scalable systems that solve real-world problems.</h3>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dipcb05&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
+<h1 align="center">Hey, I'm Dip</h1>
+<h3 align="center">Software Engineer building scalable systems that solve real-world problems.</h3>
+
+
 
 ---
 
