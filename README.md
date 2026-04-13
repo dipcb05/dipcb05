@@ -9,7 +9,7 @@
 
 ---
 
-Just a quick intro: I mostly live in the backend world, design systems, making APIs, sorting out chaotic business logic, and trying to sneak useful AI into products without turning everything into hype soup.
+I mostly live in the backend world, design systems, making APIs, sorting out chaotic business logic, and trying to sneak useful AI into products without turning everything into hype soup.
 
 I get nerd-sniped by questions like:
 - why this endpoint takes 4 seconds on Tuesdays
@@ -18,21 +18,21 @@ I get nerd-sniped by questions like:
 
 ---
 
-### One thing I'm kinda working on right now
+### One thing I'm working on right now
 
 **Task Whisper**  
-Started with a dumb question: what if your todo app actually *understood* what you meant instead of just saving your typo-filled sentence? So it's an AI-powered task system that turns messy natural language into clean structured tasks
+What if your todo app actually *understood* what you meant instead of just saving your typo-filled sentence? So it's an AI-powered task system that turns messy natural language into clean structured tasks
 If you're curious → check the repo!
 
 ---
 
 ### Stuff I usually use
 
-- **Backend** → Laravel • Node/Express • FastAPI • sometimes Django when I want structure  
-- **Frontend-ish** → React • Livewire + Alpine.js • Tailwind (because life is too short for CSS wars)  
-- **Data** → PostgreSQL, MySQL mostly, Mongo when it makes sense  
-- **Glue & infra** → Docker • Git (obviously) • Linux servers I probably SSH into too often  
-
+- **Backend** → Laravel • Node/Express • FastAPI 
+- **Frontend-ish** → React • Livewire + Alpine.js • Tailwind
+- **Data** → PostgreSQL • MySQL • MongoDB  
+- **Glue & infra** → Docker • Git • Linux
+  
 ---
 
 ### I sometimes write things down
