@@ -43,7 +43,7 @@ Mostly system design rants, architecture trade-offs, and war stories from produc
 
 ### Say hi if you want
 
-- Website: [dipchakraborty.com](https://dipchakraborty.com)  
+- Website: [dipchakraborty.com](https://dipchakraborty.dev)  
 - Email: connect@dipchakraborty.com  
 - LinkedIn: [linkedin.com/in/dipcb05](https://linkedin.com/in/dipcb05)  
 
