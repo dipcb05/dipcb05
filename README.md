@@ -1,53 +1,63 @@
-[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=vKQi3bBA1y8) 
 <p align="center">
 <img src="https://githubvisitcounter.dipchakraborty.dev/api/profile-views?username=dipcb05&label=Profile+views&color=0e75b6&style=flat&mode=unique&ttl=21600" alt="dipcb05 profile views" />
 </p>
 
-<h1 align="center">Hey, I'm Dip</h1>
-<h3 align="center">Software Engineer building scalable systems that solve real-world problems.</h3>
-
-
+<h1 align="center">This is Dip Chakraborty</h1>
+<h3 align="center">Software Engineer who turns ambiguous requirements into production systems</h3>
 
 ---
 
-I mostly live in the backend world, design systems, making APIs, sorting out chaotic business logic, and trying to sneak useful AI into products without turning everything into hype soup.
+I work on backend systems, enterprise integrations, and AI applications. Whether extending existing platforms or building systems from scratch, I focus on understanding business constraints, existing architectures, and ambiguous requirements, then designing pragmatic solutions that introduce new capabilities without disrupting production.
 
-I get nerd-sniped by questions like:
-- why this endpoint takes 4 seconds on Tuesdays
-- how to keep the folder structure sane when the project grows
-- what actually happens when this queue dies at 3 a.m.
+Over the past five years, I've delivered B2B SaaS platforms across:
 
----
-
-### One thing I'm working on right now
-
-**Task Whisper**  
-What if your todo app actually *understood* what you meant instead of just saving your typo-filled sentence? So it's an AI-powered task system that turns messy natural language into clean structured tasks
-If you're curious → check the repo!
+- IoT-powered secure access control systems serving 2,000+ employees daily
+- Workforce management platforms supporting thousands of users
+- CRM and HRM solutions managing 15,000+ records
+- AI-enhanced e-commerce platforms with RAG-based product discovery and AR-assisted product visualization
+- Workflow automation systems using n8n, enabling business teams to configure and automate operational processes
+- Multi-tenant AI-powered customer support assistants handling tens of thousands of customer queries per day
 
 ---
 
-### Stuff I usually use
+### Currently building
 
-- **Backend** → Laravel • Node/Express • FastAPI 
-- **Frontend-ish** → React • Livewire + Alpine.js • Tailwind
-- **Data** → PostgreSQL • MySQL • MongoDB  
-- **Glue & infra** → Docker • Git • Linux
-  
----
-
-### I sometimes write things down
-
-Mostly system design rants, architecture trade-offs, and war stories from production fires → [writings.dipchakraborty.com](https://writings.dipchakraborty.com)
+**[cadre](https://github.com/dipcb05/cadre)** - a modular framework for securing LLM/RAG applications against adversarial and injection risks, based on security patterns observed in enterprise RAG deployments.
 
 ---
 
-### Say hi if you want
+### Stack I regularly use
 
-- Website: [dipchakraborty.dev](https://dipchakraborty.dev)  
-- Email: [connect@dipchakraborty.dev](mailto:connect@dipchakraborty.dev)  
-- LinkedIn: [linkedin.com/in/dipcb05](https://linkedin.com/in/dipcb05)  
+Backend → FastAPI • Fastify • Laravel  
+Frontend → Vue.js • Next.js • Alpine.js  
+
+AI → LangChain • LangGraph • MCP • Ollama  
+ML → PyTorch • TensorFlow  
+
+Data & Cache → PostgreSQL • MySQL • MongoDB • Redis • Qdrant  
+Search & Analytics → Elasticsearch • Logstash • Kibana  
+
+Messaging & Queue → RabbitMQ • Kafka  
+Authentication → Keycloak • Auth0 • Firebase Auth  
+
+Storage → MinIO • GCP Storage • Cloudflare R2 • Vercel Blob  
+
+Cloud → AWS • GCP • Azure • DigitalOcean  
+Deployment & Infra → Docker • Kubernetes • Nginx • Apache  
+
+Monitoring → Datadog • Grafana • Prometheus  
+
+Testing & API → Postman • Bruno • OpenAPI  
 
 ---
 
-> Maintainable code matters more than clever code!
+### Get in touch
+
+- Website → [dipchakraborty.dev](https://dipchakraborty.dev)
+- Email → [connect@dipchakraborty.dev](mailto:connect@dipchakraborty.dev)
+- LinkedIn → [linkedin.com/in/dipcb05](https://linkedin.com/in/dipcb05)
+- Blog → [writings.dipchakraborty.com](https://writings.dipchakraborty.com)
+
+---
+
+> Maintainable systems matter more than clever designs.
