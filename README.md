@@ -1,3 +1,4 @@
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://dipchakraborty.dev/) 
 <p align="center">
 <img src="https://githubvisitcounter.dipchakraborty.dev/api/profile-views?username=dipcb05&label=Profile+views&color=0e75b6&style=flat&mode=unique&ttl=21600" alt="dipcb05 profile views" />
 </p>
